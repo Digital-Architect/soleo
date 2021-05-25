@@ -4,7 +4,9 @@ Code challenge
 
 Wordpress website based on selected design (soleo)
 
-Instructions:
+Production - https://soleo.digital-architect.co.uk/
+
+**Instructions:**
 
 Please choose 1 of the 3 designs to create a simple Wordpress site with the three sections shown. 
 
