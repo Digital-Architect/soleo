@@ -28,8 +28,6 @@ SASS
 
 Mobile / Laptop -  responsiveness - make sure the site looks good across devices.
 
-Repo with the code and access granted to support@createape.com - github preferred.
-
 Clean documentation in the HTML / PHP files.
 
 Fast load times are a plus.
